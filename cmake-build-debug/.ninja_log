@@ -1,0 +1,9 @@
+# ninja log v5
+4	1188	7363199641033931	CMakeFiles/Polimorfismo.dir/main.cpp.obj	719183ce9e8698ae
+22	1149	7363296648994841	CMakeFiles/Polimorfismo.dir/Animal.cpp.obj	61fb462c55587610
+1149	1341	7363296650514827	Polimorfismo.exe	c6b7351a7e54c526
+30	1145	7363296648964854	CMakeFiles/Polimorfismo.dir/Hipopotamo.cpp.obj	9a919da544ff1d3e
+10	865	7363317828654688	CMakeFiles/Polimorfismo.dir/Monkey.cpp.obj	14f435b433ed51da
+15	874	7363317828744682	CMakeFiles/Polimorfismo.dir/Cebra.cpp.obj	fbe4b7e40f5108e1
+5	875	7363317828754681	CMakeFiles/Polimorfismo.dir/Jirafa.cpp.obj	710d06d77c1afad7
+875	1060	7363317830234690	Polimorfismo.exe	632c0b3b12ad9f19
